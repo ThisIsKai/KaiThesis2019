@@ -25,21 +25,21 @@ TagManager:
   - UI
   - 
   - 
-  - wall
-  - R controls
+  - Wall
+  - Player1RControls
   - SideWalls
-  - Bar
-  - Ball
-  - Glass
-  - L controls
+  - Player1Bar
+  - Player1Ball
+  - Player1Glass
+  - Player1LControls
   - Backboard
-  - BarSupport
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Player1BarSupport
+  - Player2LControls
+  - Player2RControls
+  - Player2Bar
+  - Player2Glass
+  - Player2Ball
+  - Player2BarSupport
   - 
   - 
   - 
